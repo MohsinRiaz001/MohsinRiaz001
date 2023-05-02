@@ -6,11 +6,8 @@
 - 🌱 I’m currently studying  BS Information Technology from Virtual University of Pakistan. 
 - 💞️ I’m looking to collaborate on projects related to web development and data analytics/data science EDA .
 - 📫  reach me on :
-[1]: http://www.github.com/MohsinRiaz001
-
-[2]: https://www.linkedin.com/in/mohsin-riaz-4368a2272/
-
-[3]: https://www.facebook.com/cadetmohsin.riaz
+[1]: https://www.linkedin.com/in/mohsin-riaz-4368a2272/
+[2]: https://www.facebook.com/cadetmohsin.riaz
 
 <!---
 MohsinRiaz001/MohsinRiaz001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
