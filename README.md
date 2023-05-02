@@ -5,8 +5,7 @@
 - 👀 I’m interested to work in web development and big data analysis.
 - 🌱 I’m currently studying  BS Information Technology from Virtual University of Pakistan. 
 - 💞️ I’m looking to collaborate on projects related to web development and data analytics/data science EDA .
-- 📫  reach me on
-
+- 📫  reach me on :
 [1]: http://www.github.com/MohsinRiaz001
 
 [2]: https://www.linkedin.com/in/mohsin-riaz-4368a2272/
