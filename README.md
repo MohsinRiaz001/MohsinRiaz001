@@ -1,11 +1,15 @@
 - **Hi👋, I’m Mohsin Riaz**
-**A PAssionate front-end developer and data analyst with experties in javascript , R programming , excel , tableau and sql.
+
+**A Passionate front-end developer and data analyst with experties in javascript , R programming , excel , tableau and sql.**
 - 👀 I’m interested to work in web development and big data analysis.
 - 🌱 I’m currently studying  BS Information Technology from Virtual University of Pakistan. 
 - 💞️ I’m looking to collaborate on projects related to web development and data analytics/data science.
-- 📫  reach me on 
+- 📫  reach me on
+
 [1]: http://www.github.com/MohsinRiaz001
+
 [2]: https://www.linkedin.com/in/mohsin-riaz-4368a2272/
+
 [3]: https://www.facebook.com/cadetmohsin.riaz
 
 
