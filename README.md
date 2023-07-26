@@ -1,7 +1,6 @@
 - **Hi👋, I’m Mohsin Riaz**
 
-**A Passionate front-end developer and data analyst with experties in html , css ,javascript , wordpress theme development ,
- R programming , excel , tableau and sql.**
+**A Passionate front-end developer and data analyst with experties in html , css ,javascript , wordpress theme development ,Python Programming , R programming , excel , tableau and sql.**
 - 👀 I’m interested to work in web development and big data analysis.
 - 🌱 I’m currently studying  BS Information Technology from Virtual University of Pakistan. 
 - 💞️ I’m looking to collaborate on projects related to web development and data analytics/data science EDA .
